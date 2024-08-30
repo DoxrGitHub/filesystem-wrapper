@@ -7,7 +7,7 @@ map:
 
 openFS()
 
-starts the filesystem process and makes it so writing makes a bit more sense
+starts the filesystem process and makes it so writing makes a bit more sense... this is literally only for storage purposes nothing is actually happening other than stuff being stored or some shi idk openFS could also be used for starting the rw process after closing
 
 makeFile()
 
